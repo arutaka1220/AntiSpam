@@ -1,1 +1,6 @@
 # AntiSpam
+
+ATMアドオンと同じくGameTestを使用しているのでGameTestフレームワークが有効でないと使用できません
+
+ファイル内にあるscripts/config.jsを編集すれば設定を編集できます
+gametest.jsはできれば触らないでください
